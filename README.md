@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science & Engineering Student.
+I’m a Computer Science student passionate about full-stack web development and AI integration. Skilled in Java, Python, HTML, CSS, JavaScript, React, MongoDB, and SQL, I enjoy turning ideas into real-world applications. I’ve built projects like an AI System for Pre-Presentation Practice and completed workshops in AI/ML, Python, and DSA. Always eager to learn, code, and collaborate on innovative tech solutions.
 
 
 ## 🌐 Socials:
